@@ -32,9 +32,9 @@ if __name__ == '__main__':
 
     ctx = execjs.compile(jstext)
 
-    api = "/api/sns/web/v1/comment/post"
+    api = "/api/sns/web/v1/comment/post" #评论api
     data = {"note_id": "6492ace6000000001300bdba", "content": "终于把你逆向了", "at_users": []}
-    a1 = "184d1885b79kueq8zufxxah0brzchxbn06l7mjxbt00000242961" //为
+    a1 = "184d1885b79kueq8zufxxah0brzchxbn06l7mjxbt00000242961" #为cookie中的ai字段，需要自己手动替换
 
 
     result = ctx.call("get_xs", api, data, a1)
