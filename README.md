@@ -27,3 +27,4 @@
   
 
 ## 效果
+![image](https://github.com/wang-zhiyang/xhscrawl/assets/55040284/45c9d9cb-4017-4c47-81a5-2e896ca65ed7)
