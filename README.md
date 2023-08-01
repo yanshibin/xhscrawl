@@ -9,6 +9,13 @@
 |     |     |     |
 |     |     |     |
 
+## 活动日志
+| 日期  | 内容  | 其他  |
+| --- | --- | --- |
+| 2023.8.1 | 阅读并回复所有issues |  会关闭解决的issue   |
+|     |     |     |
+|     |     |     |
+
 ## how to run
 
 - python环境
@@ -26,3 +33,11 @@
 
 ## 效果
 ![image](https://github.com/wang-zhiyang/xhscrawl/assets/55040284/45c9d9cb-4017-4c47-81a5-2e896ca65ed7)
+
+## 寻求帮助
+  1. 联系作者，1v1有偿提供帮助：email：1162466610@qq.com
+  2. 加入群聊，与群友们讨论：如果需要的人多我就建立一个群
+
+## 请作者喝咖啡吧
+如果作者的仓库对你有帮助的话，请作者喝杯咖啡支持一下作者吧
+![WechatIMG106](https://github.com/wang-zhiyang/xhscrawl/assets/55040284/89bb6534-5e74-44bb-b728-dc771fe9f2b1)
