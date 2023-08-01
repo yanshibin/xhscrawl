@@ -40,4 +40,4 @@
 
 ## 请作者喝咖啡吧
 如果作者的仓库对你有帮助的话，请作者喝杯咖啡支持一下作者吧
-<img title="" src="https://github.com/wang-zhiyang/xhscrawl/assets/55040284/89bb6534-5e74-44bb-b728-dc771fe9f2b1" alt="WechatIMG106" width="100">
+<img title="" src="https://github.com/wang-zhiyang/xhscrawl/assets/55040284/89bb6534-5e74-44bb-b728-dc771fe9f2b1" alt="WechatIMG106" width="200">
