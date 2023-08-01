@@ -29,24 +29,26 @@ from py_mini_racer import py_mini_racer
 
 cookie = 'gid.sig=ooYpcOb3cch47JjSWAwFwlhzphfKxAPrMH4b3iOsWuo; gid.sign.sig=Ekn1RiJSw_am2RslNpYMMNojc7beWBp7MzXEvYIqIE4; smidV2=20220902154419cfdc03052f6ca93073821f716ec5153c006de92412963ee50; gid.ss=gSMQ9UOnDuZwH2oRGJG6BW6e4grs67TaYpnrW+8Wmd2l346RCyr+KJPPGa674999; a1=184d1885b79kueq8zufxxah0brzchxbn06l7mjxbt00000242961; webId=a1b67cc8bf1b7e409f32e7cc5175f36a; gid=yY4fyYY2dS8dyY4fyYY2DKVCWjT7dAYu7iCC1D90x8DFuW88SxCDI6888J4JjKy8YKSydd2y; gid.sign=3I/6BUxjRQtksJf1PKLWTqAU0yA=; timestamp2=167325189778920b7a70898e961e5c41797c5855e121b9616a71daa60689e8f; timestamp2.sig=xs56JeTSkpYMjP9wAuZiWJ9AvOlaACxb3Fxuec0aHiw; xhsTrackerId=4fb80133-9401-4b1b-b5bd-5888c4d842c9; xhsTrackerId.sig=wRvoxQcH01_D6sGBV8gnJr0UKPA6gciNdLAHzT6xZnc; web_session=040069b525b1e7f73f25051190364ba70d3447; sensorsdata2015jssdkcross=%7B%22%24device_id%22%3A%221892a922d5c1844-018978860d2fd2-1b525634-1296000-1892a922d5d1e84%22%7D; xsecappid=xhs-pc-web; webBuild=2.18.4; websectiga=634d3ad75ffb42a2ade2c5e1705a73c845837578aeb31ba0e442d75c648da36a; sec_poison_id=e8e5e088-0923-4a12-983e-b6a71580af07'
 
-if __name__ == '__main__':
+def GetXs( cookie, api, data):
     with open('xhs_xs.js', 'r', encoding='utf-8') as f:
         jstext = f.read()
 
     ctx = execjs.compile(jstext)
 
-    api = "/api/sns/web/v1/comment/post" #评论api
-    data = {"note_id": "64bd0bf5000000000800d6a1", "content": "2", "at_users": []}
     match = re.search(r'a1=([^;]+)', cookie)
     a1 = ""
-
     if match:
         a1 = match.group(1)
     else:
         print("关键参数a1获取失败，请检查你的cookie")
-        sys.exit()  # 提取a1失败时退出程序
-
+        return ""
 
     result = ctx.call("get_xs", api, data, a1)
+    return result
 
-    print(json.dumps(result,indent=4))
+if __name__ == '__main__':
+
+    api = "/api/sns/web/v1/comment/post"  # 评论api
+    data = {"note_id": "64bd0bf5000000000800d6a1", "content": "2", "at_users": []} #所需的参数字典
+    xs = GetXs(cookie, api, data)
+    print(json.dumps(xs, indent=4))
