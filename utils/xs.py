@@ -1,0 +1,37 @@
+import json
+import pprint
+
+import re
+import execjs
+from py_mini_racer import py_mini_racer
+
+
+
+def GetXsForGet(api):
+    with open('../xhs_xs.js', 'r', encoding='utf-8') as f:
+        jstext = f.read()
+
+    ctx = execjs.compile(jstext)
+
+    result = ctx.call("get_xs", api)
+    return result
+
+
+def GetXsForPost( cookie, api, data):
+    with open('../xhs_xs.js', 'r', encoding='utf-8') as f:
+        jstext = f.read()
+        #print(jstext)
+
+    ctx = execjs.compile(jstext)
+
+    match = re.search(r'a1=([^;]+)', cookie)
+    a1 = ""
+    if match:
+        a1 = match.group(1)
+    else:
+        print("关键参数a1获取失败，请检查你的cookie")
+        return ""
+
+    result = ctx.call("get_xs", api, data, a1)
+    return result
+
