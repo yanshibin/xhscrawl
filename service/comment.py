@@ -12,14 +12,34 @@ _noteId = "64bd0bf5000000000800d6a1"
 _commentText = "1"
 _data = {"note_id": _noteId, "content": _commentText, "at_users": []}
 
+commentHeaders = {
+    "accept": "application/json, text/plain, */*",
+    "accept-language": "zh-CN,zh;q=0.9",
+    "cache-control": "no-cache",
+    "content-type": "application/json;charset=UTF-8",
+    "cookie": _cookie,
+    "origin": "https://www.xiaohongshu.com",
+    "pragma": "no-cache",
+    "referer": "https://www.xiaohongshu.com/",
+    "sec-ch-ua": "\"Chromium\";v=\"112\", \"Google Chrome\";v=\"112\", \"Not:A-Brand\";v=\"99\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-site",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36",
+    "x-b3-traceid": "a31fffc0ee4f5d8f",
+    "x-s-common": "",
+}
+
 if __name__ == '__main__':
     crypt = util.GetXsForPost(_cookie, _commentApi, _data)
-    headers = mode.GetHeaders(cookie=_cookie, crypt=crypt)
+    headers = mode.GetHeaders(commentHeaders,cookie=_cookie, crypt=crypt)
     dumpData = json.dumps(_data, separators=(",", ":"), ensure_ascii=False)
 
     session = requests.session()
-    resp = session.post( mode.EdithHost + _commentApi, data=json.dumps(_data, separators=(",", ":")) , headers=headers,verify=False)
+    resp = session.post( mode.EdithHost + _commentApi, data=json.dumps(_data, separators=(",", ":")) , headers=headers)
 
-    # print(curlify.to_curl(resp.request))
+    print(curlify.to_curl(resp.request))
     print(resp.text)
     print(resp.status_code)
