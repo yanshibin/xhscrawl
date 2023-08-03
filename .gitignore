@@ -1,1 +1,2 @@
-service/
+service/*.py
+!service/*.md
