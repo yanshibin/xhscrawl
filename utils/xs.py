@@ -3,8 +3,22 @@ import pprint
 
 import re
 import execjs
+import requests
 from py_mini_racer import py_mini_racer
 
+
+def Get( uri: str, host:str ,headers, params=None):
+    final_uri = uri
+    if isinstance(params, dict):
+        final_uri = (f"{uri}?"
+                     f"{'&'.join([f'{k}={v}' for k, v in params.items()])}")
+    requests.get(url=f"{host}{final_uri}", headers=headers)
+
+
+def Post( uri: str, host: str , headers, data: dict):
+
+    json_str = json.dumps(data, separators=(',', ':'), ensure_ascii=False)
+    requests.post(url=f"{host}{uri}", data=json_str, headers=headers)
 
 
 def GetXsForGet(api):
@@ -13,7 +27,7 @@ def GetXsForGet(api):
 
     ctx = execjs.compile(jstext)
 
-    result = ctx.call("get_xs", api)
+    result = ctx.call("get_xs",api)
     return result
 
 
