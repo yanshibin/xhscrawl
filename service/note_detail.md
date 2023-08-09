@@ -6,6 +6,7 @@
 
 
 ## 运行结果示例
+<img width="688" alt="image" src="https://github.com/wang-zhiyang/xhscrawl/assets/55040284/0dae4465-950c-445d-ab5b-a27796c00d1a">
 
 
 ## 如何获取
