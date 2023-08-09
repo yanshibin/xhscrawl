@@ -9,6 +9,8 @@
 | v00.02 | 2023.8.1 | - 增加从cookie自动获取a1参<br/>  <br/>- 封装函数 |
 |        |  2023.8.3 | - 增加一些工具函数                  |
 |  v00.03      |  2023.8.9 | - 增加[发送评论service](https://github.com/wang-zhiyang/xhscrawl/blob/main/service/comment.md)                   |
+|  v00.04      |  2023.8.9 | - 增加[笔记详情service](https://github.com/wang-zhiyang/xhscrawl/blob/main/service/note_detail.md)                   |
+
 
 ## 活动日志
 | 日期  | 内容  | 其他  |
