@@ -21,14 +21,14 @@ def Post( uri: str, host: str , headers, data: dict):
     requests.post(url=f"{host}{uri}", data=json_str, headers=headers)
 
 # unavailable currently
-# def GetXsForGet(api):
-#     with open('../xhs_xs.js', 'r', encoding='utf-8') as f:
-#         jstext = f.read()
-#
-#     ctx = execjs.compile(jstext)
-#
-#     result = ctx.call("get_xs",api)
-#     return result
+def GetXsForGet(api):
+    with open('../xhs_xs.js', 'r', encoding='utf-8') as f:
+        jstext = f.read()
+
+    ctx = execjs.compile(jstext)
+
+    result = ctx.call("get_xs",api)
+    return result
 
 
 def GetXsForPost( cookie, api, data):
