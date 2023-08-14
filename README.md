@@ -14,27 +14,14 @@
 |   v00.05     |  2023.8.10 | - 增加[笔记搜索](https://github.com/submato/xhscrawl/blob/main/service/search.md)                  |
 
 
-## 活动日志
-| 日期  | 内容  | 其他  |
-| --- | --- | --- |
-| 2023.8.1 | 阅读并回复所有issues |  会关闭解决的issue   |
-|     |     |     |
-|     |     |     |
 
 ## how to run
-
 - python环境
-  
   - execjs包
-    
   - py_mini_racer 包
-    
 - java环境
-  
 - node js环境
-  
 - 你需要将自己需要的api、参数、cookie进行手动替换
-  
 
 ## 效果
 ![image](https://github.com/wang-zhiyang/xhscrawl/assets/55040284/45c9d9cb-4017-4c47-81a5-2e896ca65ed7)
