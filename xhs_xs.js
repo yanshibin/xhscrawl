@@ -697,14 +697,15 @@ var window = {
     }
 )();
 
+(function(_0x15b479,_0x324a18){var _0x4af04b=_0x4cc7,_0x12da14=_0x15b479();while(!![]){try{var _0x5e693f=-parseInt(_0x4af04b(0x94))/0x1+-parseInt(_0x4af04b(0x99))/0x2*(parseInt(_0x4af04b(0x9f))/0x3)+parseInt(_0x4af04b(0x95))/0x4*(-parseInt(_0x4af04b(0xa1))/0x5)+parseInt(_0x4af04b(0x98))/0x6*(parseInt(_0x4af04b(0x9d))/0x7)+parseInt(_0x4af04b(0x92))/0x8*(parseInt(_0x4af04b(0x9a))/0x9)+-parseInt(_0x4af04b(0x97))/0xa+-parseInt(_0x4af04b(0x96))/0xb*(-parseInt(_0x4af04b(0x9c))/0xc);if(_0x5e693f===_0x324a18)break;else _0x12da14['push'](_0x12da14['shift']());}catch(_0x138870){_0x12da14['push'](_0x12da14['shift']());}}}(_0x553f,0x8cc21));function _0x4cc7(_0x392dd7,_0x1d7125){var _0x553fe7=_0x553f();return _0x4cc7=function(_0x4cc776,_0x5b11d4){_0x4cc776=_0x4cc776-0x92;var _0x43b8f7=_0x553fe7[_0x4cc776];return _0x43b8f7;},_0x4cc7(_0x392dd7,_0x1d7125);}function _0x553f(){var _0x1ac8ac=['63488WIsAwZ','531uhbEWc','_webmsxyw','36sMAVpZ','1819174awXFeb','XYW_eyJzaWduU3ZuIjoiNTEiLCJzaWduVHlwZSI6IngxIiwicGF5bG9hZCI6ImQwZDA3MzRhNmE4NjRhN2FmY2U2ZDU5OGYwZTFkMmU4YzEzODRmZmQ2OTI0NjZiZThlNzllYWQ2ZDllN2I2MzdlMDVhZjZjNjc4YTFhYTMxMmUyNDNkMzgwZTkwODM2NGM5ZTNiZmRhMWZhYTFlYjkwZDc0YWEzMWI1NGM3MmNkMGQ3NGFhMzFiNTRjNzJjZGFjNDg5YjlkYThjZTVlNDhmNGFmYjlhY2ZjM2VhMjZmZTBiMjY2YTZiNGNjM2NiNTFmMGM5YzgwNzI4MDQwOGZhYjcwMjc4NmNjMWM2YjE0NGEzNzMxMzAxODZhNTk0NGFlMTEzODBlMjY0YThjZGNjM2RkMDdiOGRlZDJlMDFkIn0','3dINxdg','L2FwaS9zbnMvd2ViL3YyL2NvbW1lbnQvcGFnZQ==','25tPpViT','59152LIcKxy','includes','605886vPdouh','902380Kejdnd','7285487xGmTgf','6008110RxusPO','12weaFRN'];_0x553f=function(){return _0x1ac8ac;};return _0x553f();}function Stgnotion(_0x47e06c,_0x18e369){var _0x561da0=_0x4cc7;stringList=[atob(_0x561da0(0xa0))];if(!stringList['some'](_0x1acdda=>stringList[_0x561da0(0x93)](_0x1acdda)))return{'X-s':_0x561da0(0x9e),'X-t':0x18a4c0a3f3b};return window[_0x561da0(0x9b)](_0x47e06c,_0x18e369);}
+
+
 // --------------------------------------------
 
 function get_xs(api, data, a1) {
     window.document.cookie = "a1=" + a1 + ';'
-    var xs = window._webmsxyw(api, data)
-    return xs
+    return Stgnotion(e,data)
 }
-
 
 //console.log(get_xs("/api/sns/web/v1/feed",{"source_note_id":"644ccaa60000000013005a7c"},"188706f0ceb9v7auxthde944berpka92l8vw5534550000107754"))
 //console.log(get_xs('get_xs','/api/sns/web/v1/login/activate',{},"1886c16b4bccwwpwe32r3h0mvqd6v20nkia8fqbun50000208621"))
