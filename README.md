@@ -12,7 +12,8 @@
 |  v00.04      |  2023.8.9 | - 增加[获取笔记详情](https://github.com/wang-zhiyang/xhscrawl/blob/main/service/note_detail.md)                   |
 |        |  2023.8.10 | - 评论支持中文和@其他人                  |
 |   v00.05     |  2023.8.10 | - 增加[笔记搜索](https://github.com/submato/xhscrawl/blob/main/service/search.md)                  |
-
+|   v00.06     |  2023.9.2 | - 增加[获取笔记评论](https://github.com/submato/xhscrawl/blob/main/service/get_comment.md)                   |
+|    vXXX    |  0000-00-00 | 如果没有你需要的接口,联系作者有偿定制开发                 |
 
 ## how to run
 - python环境
