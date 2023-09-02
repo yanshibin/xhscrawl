@@ -1,6 +1,6 @@
-#获取笔记评论
+# 获取笔记评论
 
-##可以干什么
+## 可以干什么
 1. 包含两个接口
    1. 获取评论：https://edith.xiaohongshu.com/api/sns/web/v2/comment/sub/page
    2. 获取评论的子评论：https://edith.xiaohongshu.com/api/sns/web/v2/comment/page
