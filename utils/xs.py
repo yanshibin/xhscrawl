@@ -4,7 +4,6 @@ import pprint
 import re
 import execjs
 import requests
-from py_mini_racer import py_mini_racer
 
 
 def Get( uri: str, host:str ,headers, params=None):
