@@ -2,7 +2,7 @@
 小红书的api都有加密，主要就是x-s。本项目是用python逆向小红书x-s，小红书会定期更新加密的js，本项目会持续更新，欢迎star。
 
 ## 小红书账号
-同时出售手机验证过的小红书账号
+同时出售手机验证过的小红书账号：https://github.com/submato/xhsAcc
 
 ## changelog
 
