@@ -25,7 +25,7 @@
   - py_mini_racer 包
 - java环境
 - node js环境
-- 你需要将自己需要的api、参数、cookie进行手动替换
+- 找到demo/xhs.py，将自己需要的api、参数、cookie进行手动替换运行即可
 
 ## 效果
 ![image](https://github.com/wang-zhiyang/xhscrawl/assets/55040284/45c9d9cb-4017-4c47-81a5-2e896ca65ed7)
