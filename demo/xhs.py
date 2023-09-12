@@ -6,7 +6,7 @@ import execjs
 from py_mini_racer import py_mini_racer
 
 def GetXs( cookie, api, data):
-    with open('xhs_xs.js', 'r', encoding='utf-8') as f:
+    with open('xhs.js', 'r', encoding='utf-8') as f:
         jstext = f.read()
 
     ctx = execjs.compile(jstext)
@@ -22,6 +22,7 @@ def GetXs( cookie, api, data):
     result = ctx.call("get_xs", api, data, a1)
     return result
 
+# 向笔记发送评论
 if __name__ == '__main__':
     cookie = 'put your cookie here'
     api = "/api/sns/web/v1/comment/post"  # comment api

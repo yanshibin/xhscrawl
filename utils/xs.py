@@ -21,7 +21,7 @@ def Post( uri: str, host: str , headers, data: dict):
 
 # unavailable currently
 def GetXsForGet(api):
-    with open('../demo/xhs_xs.js', 'r', encoding='utf-8') as f:
+    with open('../demo/xhs.js', 'r', encoding='utf-8') as f:
         jstext = f.read()
 
     ctx = execjs.compile(jstext)
@@ -31,7 +31,7 @@ def GetXsForGet(api):
 
 
 def GetXsForPost( cookie, api, data):
-    with open('../demo/xhs_xs.js', 'r', encoding='utf-8') as f:
+    with open('../demo/xhs.js', 'r', encoding='utf-8') as f:
         jstext = f.read()
         #print(jstext)
 
