@@ -14,7 +14,8 @@
 |        |  2023.8.10 | - 评论支持中文和@其他人                  |
 |   v00.05     |  2023.8.10 | - 增加[笔记搜索](https://github.com/submato/xhscrawl/blob/main/service/search.md)                  |
 |   v00.06     |  2023.9.2 | - 增加[获取笔记评论](https://github.com/submato/xhscrawl/blob/main/service/get_comment.md)                   |
-|   v00.07     |  正在开发中 | - 增加[自动发布笔记](https://github.com/submato/xhscrawl/blob/main/service/creat_note.md)                   |
+|   v00.07     |  正在开发中 | - 增加[收藏笔记](https://github.com/submato/xhscrawl/blob/main/service/collect_note.md) 、[给笔记点赞](https://github.com/submato/xhscrawl/blob/main/service/like_note.md)            |
+|        |  正在开发中 | - 增加[自动发布笔记](https://github.com/submato/xhscrawl/blob/main/service/creat_note.md)                   |
 |    vXXX    |  0000-00-00 | 如果没有你需要的接口,联系作者有偿定制开发                 |
 
 ## how to run
