@@ -6,6 +6,10 @@
 
 ## 运行结果示例
 
+```json
+ {code: 0, msg: "Success", success: true}
+```
+
 ## how to run
 代码以最简单朴素的方式编写，只需以下步骤
 1. 向作者获取源码文件，放置本目录下

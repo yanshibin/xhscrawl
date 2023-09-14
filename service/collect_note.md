@@ -5,6 +5,10 @@
 
 
 ## 运行结果示例
+```json
+ {code: 0, msg: "Success", success: true}
+```
+
 
 ## how to run
 代码以最简单朴素的方式编写，只需以下步骤
