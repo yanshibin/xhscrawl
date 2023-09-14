@@ -44,6 +44,8 @@
 | [获取笔记详情](https://github.com/wang-zhiyang/xhscrawl/blob/main/service/note_detail.md)    |
 | [笔记搜索](https://github.com/submato/xhscrawl/blob/main/service/search.md)                  |
 | [获取笔记评论](https://github.com/submato/xhscrawl/blob/main/service/get_comment.md)                  |
+| [收藏笔记](https://github.com/submato/xhscrawl/blob/main/service/collect_note.md)                |
+| [给笔记点赞](https://github.com/submato/xhscrawl/blob/main/service/like_note.md)               |
 
 
 
