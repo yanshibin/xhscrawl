@@ -7,5 +7,6 @@ service/note_detail/
 service/search/
 service/like_note/
 service/collect_note/
+service/template/
 
 !service/*.md
