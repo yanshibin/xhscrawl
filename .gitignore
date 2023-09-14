@@ -5,5 +5,7 @@ service/comment/
 service/creat_note/
 service/note_detail/
 service/search/
+service/like_note/
+service/collect_note/
 
 !service/*.md
