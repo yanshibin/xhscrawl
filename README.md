@@ -47,6 +47,10 @@
 | [给笔记点赞](https://github.com/submato/xhscrawl/blob/main/service/like_note.md)               |
 
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=submato/xhscrawl&type=Date)](https://star-history.com/#submato/xhscrawl&Date)
+
 
 ## 请作者喝咖啡吧
 如果作者的仓库对你有帮助的话，请作者喝杯咖啡支持一下作者吧
