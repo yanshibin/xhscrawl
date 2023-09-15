@@ -19,13 +19,13 @@
 |    vXXX   |  正在开发中 | - 增加[自动发布笔记](https://github.com/submato/xhscrawl/blob/main/service/creat_note.md) |
 |    vXXX    |  0000-00-00 | 如果没有你需要的接口,联系作者有偿定制开发                 |
 
-## how to run
+## how to run demo
 - python环境
   - execjs包
   - py_mini_racer 包
 - java环境
 - node js环境
-- 找到demo/xhs.py，将自己需要的api、参数、cookie进行手动替换运行即可
+- 找到demo/xhs.py，将自己需要的参数、cookie进行手动替换运行即可
 
 ## 效果
 ![image](https://github.com/wang-zhiyang/xhscrawl/assets/55040284/45c9d9cb-4017-4c47-81a5-2e896ca65ed7)
