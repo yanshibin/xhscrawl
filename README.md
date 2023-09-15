@@ -27,7 +27,7 @@
 - node js环境
 - 找到demo/xhs.py，将自己需要的参数、cookie进行手动替换运行即可
 
-## 效果
+## 逆向xs效果
 ![image](https://github.com/wang-zhiyang/xhscrawl/assets/55040284/45c9d9cb-4017-4c47-81a5-2e896ca65ed7)
 
 ## 寻求帮助
