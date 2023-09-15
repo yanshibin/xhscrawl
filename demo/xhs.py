@@ -69,7 +69,8 @@ def DoApi(param, cookie):
 
 
 if __name__ == '__main__':
-
+    # 向笔记发送评论demo
+    # warning 该js逆向只能用于改接口，如需其他接口请联系作者
 
     cookie = ""  # put your cookie here
 
