@@ -45,6 +45,8 @@
 | [获取笔记评论](https://github.com/submato/xhscrawl/blob/main/service/get_comment.md)                  |
 | [收藏笔记](https://github.com/submato/xhscrawl/blob/main/service/collect_note.md)                |
 | [给笔记点赞](https://github.com/submato/xhscrawl/blob/main/service/like_note.md)               |
+| 如果没有你需要的接口,联系作者有偿定制开发              |
+
 
 
 ## Star History
