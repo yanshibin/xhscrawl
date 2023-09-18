@@ -6,18 +6,19 @@
 
 | 版本     | 日期       | 其他                                   |
 | ------ | -------- | ------------------------------------ |
-| v00.01 | 2023.7.5 |                                      |
-| v00.02 | 2023.8.1 | - 增加从cookie自动获取a1参<br/>  <br/>- 封装函数 |
-|        |  2023.8.3 | - 增加一些工具函数                  |
-|  v00.03      |  2023.8.9 | - 增加[发送评论](https://github.com/wang-zhiyang/xhscrawl/blob/main/service/service_index/comment.md)                   |
-|  v00.04      |  2023.8.9 | - 增加[获取笔记详情](https://github.com/wang-zhiyang/xhscrawl/blob/main/service/service_index/note_detail.md)                   |
-|        |  2023.8.10 | - 评论支持中文和@其他人                  |
-|   v00.05     |  2023.8.10 | - 增加[笔记搜索](https://github.com/submato/xhscrawl/blob/main/service/service_index/search.md)                  |
-|   v00.06     |  2023.9.2 | - 增加[获取笔记评论](https://github.com/submato/xhscrawl/blob/main/service/service_index/get_comment.md)                   |
-|   v00.07     |  2023.9.14 | - 增加[收藏笔记](https://github.com/submato/xhscrawl/blob/main/service/service_index/collect_note.md) 、[给笔记点赞](https://github.com/submato/xhscrawl/blob/main/service/service_index/like_note.md)            |
-| v01.00 | 2023.9.14 | - 代码重构、模块化、解耦  |
-|    vXXX   |  正在开发中 | - 增加[自动发布笔记](https://github.com/submato/xhscrawl/blob/main/service/service_index/creat_note.md) |
-|    vXXX    |  0000-00-00 | 如果没有你需要的接口,联系作者有偿定制开发                 |
+| v00.01 | 2023.07.05 |                                      |
+| v00.02 | 2023.08.01 | - 增加从cookie自动获取a1参<br/>  <br/>- 封装函数 |
+|        | 2023.08.03 | - 增加一些工具函数                  |
+| v00.03 | 2023.08.09 | - 增加[发送评论](https://github.com/wang-zhiyang/xhscrawl/blob/main/service/service_index/comment.md)                   |
+| v00.04 | 2023.08.09 | - 增加[获取笔记详情](https://github.com/wang-zhiyang/xhscrawl/blob/main/service/service_index/note_detail.md)                   |
+|        | 2023.08.10 | - 评论支持中文和@其他人                  |
+| v00.05 | 2023.08.10 | - 增加[笔记搜索](https://github.com/submato/xhscrawl/blob/main/service/service_index/search.md)                  |
+| v00.06 | 2023.09.02 | - 增加[获取笔记评论](https://github.com/submato/xhscrawl/blob/main/service/service_index/get_comment.md)                   |
+| v00.07 | 2023.09.14 | - 增加[收藏笔记](https://github.com/submato/xhscrawl/blob/main/service/service_index/collect_note.md) 、[给笔记点赞](https://github.com/submato/xhscrawl/blob/main/service/service_index/like_note.md)            |
+| v01.00 | 2023.09.14 | - 代码重构、模块化、解耦  |
+| v01.01 | 2023.09.18 | - 增加[获取用户笔记](https://github.com/submato/xhscrawl/blob/main/service/service_index/user_notes.md) |
+| vxx.xx | 正在开发中 | - 增加[自动发布笔记](https://github.com/submato/xhscrawl/blob/main/service/service_index/creat_note.md) |
+| vxx.xx | 0000-00-00 | 如果没有你需要的接口,联系作者有偿定制开发                 |
 
 ## how to run demo
 - python环境
@@ -44,7 +45,8 @@
 | [笔记搜索](https://github.com/submato/xhscrawl/blob/main/service/service_index/search.md)                  |
 | [获取笔记评论](https://github.com/submato/xhscrawl/blob/main/service/service_index/get_comment.md)                  |
 | [收藏笔记](https://github.com/submato/xhscrawl/blob/main/service/service_index/collect_note.md)                |
-| [给笔记点赞](https://github.com/submato/xhscrawl/blob/main/service/service_index/like_note.md)               |
+| [给笔记点赞](https://github.com/submato/xhscrawl/blob/main/service/service_index/like_note.md)  
+| [获取用户笔记](https://github.com/submato/xhscrawl/blob/main/service/service_index/user_notes.md)  |
 | 如果没有你需要的接口,联系作者有偿定制开发              |
 
 
