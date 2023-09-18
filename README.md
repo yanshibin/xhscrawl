@@ -17,6 +17,7 @@
 | v00.07 | 2023.09.14 | - 增加[收藏笔记](https://github.com/submato/xhscrawl/blob/main/service/service_index/collect_note.md) 、[给笔记点赞](https://github.com/submato/xhscrawl/blob/main/service/service_index/like_note.md)            |
 | v01.00 | 2023.09.14 | - 代码重构、模块化、解耦  |
 | v01.01 | 2023.09.18 | - 增加[获取用户笔记](https://github.com/submato/xhscrawl/blob/main/service/service_index/user_notes.md) |
+| v01.01 | 2023.09.18 | - 增加[获取用户信息](https://github.com/submato/xhscrawl/blob/main/service/service_index/user_info.md) |
 | vxx.xx | 正在开发中 | - 增加[自动发布笔记](https://github.com/submato/xhscrawl/blob/main/service/service_index/creat_note.md) |
 | vxx.xx | 0000-00-00 | 如果没有你需要的接口,联系作者有偿定制开发                 |
 
@@ -47,6 +48,7 @@
 | [收藏笔记](https://github.com/submato/xhscrawl/blob/main/service/service_index/collect_note.md)                |
 | [给笔记点赞](https://github.com/submato/xhscrawl/blob/main/service/service_index/like_note.md)  
 | [获取用户笔记](https://github.com/submato/xhscrawl/blob/main/service/service_index/user_notes.md)  |
+| [获取用户详情](https://github.com/submato/xhscrawl/blob/main/service/service_index/user_info.md)  |
 | 如果没有你需要的接口,联系作者有偿定制开发              |
 
 

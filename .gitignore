@@ -10,5 +10,6 @@ service/collect_note/
 service/template/
 service/user_notes/
 service/test/
+service/user_info/
 
 !service/*.md
