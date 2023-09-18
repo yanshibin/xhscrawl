@@ -3,6 +3,8 @@
 ## 可以干什么
 获取用户发布的稿件
 
+## api
+/api/sns/web/v1/user_posted
 
 ## 数据Demo：
 
