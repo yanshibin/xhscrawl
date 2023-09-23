@@ -11,5 +11,6 @@ service/template/
 service/user_notes/
 service/test/
 service/user_info/
+service/search_keyword_recommend/
 
 !service/*.md

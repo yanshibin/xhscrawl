@@ -7,8 +7,7 @@
 | 版本     | 日期       | 其他                                   |
 | ------ | -------- | ------------------------------------ |
 | v00.01 | 2023.07.05 |                                      |
-| v00.02 | 2023.08.01 | - 增加从cookie自动获取a1参<br/>  <br/>- 封装函数 |
-|        | 2023.08.03 | - 增加一些工具函数                  |
+| v00.02 | 2023.08.01 | - 增加从cookie自动获取a1参<br/>- 封装函数 <br/> - 增加一些工具函数|
 | v00.03 | 2023.08.09 | - 增加[发送评论](https://github.com/wang-zhiyang/xhscrawl/blob/main/service/service_index/comment.md)                   |
 | v00.04 | 2023.08.09 | - 增加[获取笔记详情](https://github.com/wang-zhiyang/xhscrawl/blob/main/service/service_index/note_detail.md)                   |
 |        | 2023.08.10 | - 评论支持中文和@其他人                  |
