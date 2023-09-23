@@ -2,6 +2,8 @@
 
 ## 可以干什么
 顾名思义，获取在搜索推荐下拉框信息
+<img width="439" alt="image" src="https://github.com/submato/xhscrawl/assets/55040284/ef5480be-b44b-4c39-91e7-6b19f014fcb0">
+
 
 ## api
 /api/sns/web/v1/search/recommend
