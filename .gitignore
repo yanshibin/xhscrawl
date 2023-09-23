@@ -9,7 +9,7 @@ service/like_note/
 service/collect_note/
 service/utils/
 service/user_notes/
-service/test/
+service/utils/test/
 service/user_info/
 service/search_keyword_recommend/
 
