@@ -12,5 +12,6 @@ service/user_notes/
 service/utils/test/
 service/user_info/
 service/search_keyword_recommend/
+service/homefeed/
 
 !service/*.md
