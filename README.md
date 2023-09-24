@@ -5,6 +5,14 @@
 1. 本项目才用js计算，不使用playwright/selenium调用浏览器内核的方式。因为起浏览器太耗资源了，如果有高并发、多账号需求的生产环境很难容忍。
 2. 整个请求(包括本地计算xs、发起请求、小红书处理请求、返回数据)，10次平均耗时在800ms左右，速度十分可观
 
+<img width="150" alt="image" src="https://github.com/submato/xhscrawl/assets/55040284/4845e6e9-a8b1-42cd-9822-6a1a5658ef8e">
+
+
+
+
+
+
+
 ## changelog
 
 | 版本     | 日期       | 其他                                   |
