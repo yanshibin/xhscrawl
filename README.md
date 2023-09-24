@@ -1,6 +1,9 @@
 ## 简介
 小红书的api都有加密，主要就是x-s。本项目是用python逆向小红书x-s，小红书会定期更新加密的js，本项目会持续更新，欢迎star。
 
+## 性能
+1. 本项目才用js计算，不使用playwright/selenium调用浏览器内核的方式。因为起浏览器太耗资源了，如果有高并发、多账号需求的生产环境很难容忍。
+2. 整个请求(包括本地计算xs、发起请求、小红书处理请求、返回数据)，10次平均耗时在800ms左右，速度十分可观
 
 ## changelog
 
@@ -18,6 +21,7 @@
 | v01.01 | 2023.09.18 | - 增加[获取用户笔记](https://github.com/submato/xhscrawl/blob/main/service/service_index/user_notes.md) |
 | v01.02 | 2023.09.18 | - 增加[获取用户信息](https://github.com/submato/xhscrawl/blob/main/service/service_index/user_info.md) |
 | v01.03 | 2023.09.23 | - 增加[获取关键词搜索推荐信息](https://github.com/submato/xhscrawl/blob/main/service/service_index/search_keyword_recommend.md)  |
+| v01.04 | 2023.09.24 | - 增加[homefeed首页推荐](https://github.com/submato/xhscrawl/blob/main/service/service_index/homefeed.md) |
 | vxx.xx | 正在开发中 | - 增加[自动发布笔记](https://github.com/submato/xhscrawl/blob/main/service/service_index/creat_note.md) |
 | vxx.xx | 0000-00-00 | 如果没有你需要的接口,联系作者有偿定制开发                 |
 
@@ -60,6 +64,7 @@ QQ ：1162466610 (回复很快的哦， 禁止白嫖！！！)
 | [获取用户笔记](https://github.com/submato/xhscrawl/blob/main/service/service_index/user_notes.md)  |
 | [获取用户详情](https://github.com/submato/xhscrawl/blob/main/service/service_index/user_info.md)  |
 | [获取关键词搜索推荐信息](https://github.com/submato/xhscrawl/blob/main/service/service_index/search_keyword_recommend.md)  |
+| [homefeed首页推荐](https://github.com/submato/xhscrawl/blob/main/service/service_index/homefeed.md)  |
 | 如果没有你需要的接口,联系作者有偿定制开发              |
 
 
