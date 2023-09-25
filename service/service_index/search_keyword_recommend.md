@@ -1,7 +1,7 @@
 # 搜索关键字
 
 ## 可以干什么
-顾名思义，获取在搜索推荐下拉框信息
+顾名思义，获取在搜索推荐下拉框信息，文字推荐、用户推荐都是一样的
 <img width="439" alt="image" src="https://github.com/submato/xhscrawl/assets/55040284/ef5480be-b44b-4c39-91e7-6b19f014fcb0">
 
 
