@@ -26,6 +26,7 @@
 | v01.03 | 2023.09.23 | - 增加[获取关键词搜索推荐信息](https://github.com/submato/xhscrawl/blob/main/service/service_index/search_keyword_recommend.md)  |
 | v01.04 | 2023.09.24 | - 增加[homefeed首页推荐](https://github.com/submato/xhscrawl/blob/main/service/service_index/homefeed.md) |
 | v01.05 | 2023.09.26 | - 增加[自动发布笔记](https://github.com/submato/xhscrawl/blob/main/service/service_index/creat_note.md) |
+| v01.06 | 2023.09.28 | - 增加[消息-评论和@列表](https://github.com/submato/xhscrawl/blob/main/service/service_index/mentions.md) |
 | vxx.xx | 0000-00-00 | 如果没有你需要的接口,联系作者有偿定制开发                 |
 
 ## how to run demo
@@ -72,6 +73,7 @@ QQ ：1162466610 (回复很快的哦， 禁止白嫖！！！)
 | [获取关键词搜索推荐信息](https://github.com/submato/xhscrawl/blob/main/service/service_index/search_keyword_recommend.md)  |
 | [homefeed首页推荐](https://github.com/submato/xhscrawl/blob/main/service/service_index/homefeed.md)  |
 | [自动发布笔记](https://github.com/submato/xhscrawl/blob/main/service/service_index/creat_note.md) |
+| [消息-评论和@列表](https://github.com/submato/xhscrawl/blob/main/service/service_index/mentions.md)  |
 | 如果没有你需要的接口,联系作者有偿定制开发              |
 
 

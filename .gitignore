@@ -13,5 +13,6 @@ service/utils/test/
 service/user_info/
 service/search_keyword_recommend/
 service/homefeed/
+service/mentions/
 
 !service/*.md
