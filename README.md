@@ -27,6 +27,7 @@
 | v01.04 | 2023.09.24 | - 增加[homefeed首页推荐](https://github.com/submato/xhscrawl/blob/main/service/service_index/homefeed.md) |
 | v01.05 | 2023.09.26 | - 增加[自动发布笔记](https://github.com/submato/xhscrawl/blob/main/service/service_index/creat_note.md) |
 | v01.06 | 2023.09.28 | - 增加[消息-评论和@列表](https://github.com/submato/xhscrawl/blob/main/service/service_index/mentions.md) |
+| v01.07 | 2023.09.28 | - update js文件，使其更加友好，加快开发 |
 | vxx.xx | 0000-00-00 | 如果没有你需要的接口,联系作者有偿定制开发                 |
 
 ## how to run demo
