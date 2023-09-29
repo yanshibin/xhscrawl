@@ -15,5 +15,6 @@ service/search_keyword_recommend/
 service/homefeed/
 service/mentions/
 service/likes/
+service/connections/
 
 !service/*.md

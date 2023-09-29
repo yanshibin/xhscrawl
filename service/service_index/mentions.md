@@ -3,6 +3,10 @@
 ## 可以干什么
 获取 消息下"评论和@"列表信息
 
+<img width="250" alt="image" src="https://raw.githubusercontent.com/submato/xhscrawl/main/source/WechatIMG122.jpeg">
+
+对应图片中"评论和@"中的信息
+
 ## api
 /api/sns/web/v1/you/mentions
 

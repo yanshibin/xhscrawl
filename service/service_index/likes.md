@@ -3,6 +3,10 @@
 ## 可以干什么
 获取赞和收藏消息通知列表
 
+<img width="250" alt="image" src="https://raw.githubusercontent.com/submato/xhscrawl/main/source/WechatIMG122.jpeg">
+
+对应图片中"赞和收藏"中的信息
+
 ## api
 /api/sns/web/v1/you/likes
 
