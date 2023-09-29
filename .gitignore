@@ -16,5 +16,7 @@ service/homefeed/
 service/mentions/
 service/likes/
 service/connections/
+service/unread/
+
 
 !service/*.md

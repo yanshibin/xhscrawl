@@ -30,6 +30,7 @@
 | v01.07 | 2023.09.29 | - update js文件，使其更加友好，加快开发 |
 | v01.08 | 2023.09.29 | - 增加[消息-赞和收藏](https://github.com/submato/xhscrawl/blob/main/service/service_index/likes.md) |
 | v01.09 | 2023.09.29 | - 增加[新增关注列表](https://github.com/submato/xhscrawl/blob/main/service/service_index/connections.md) |
+| v01.10 | 2023.09.29 | - 增加[未读通知数](https://github.com/submato/xhscrawl/blob/main/service/service_index/unread.md) |
 | vxx.xx | 0000-00-00 | 如果没有你需要的接口,联系作者有偿定制开发                 |
 
 ## how to run demo
@@ -79,6 +80,7 @@ QQ ：1162466610 (回复很快的哦， 禁止白嫖！！！)
 | [消息-评论和@列表](https://github.com/submato/xhscrawl/blob/main/service/service_index/mentions.md)  |
 | [消息-赞和收藏](https://github.com/submato/xhscrawl/blob/main/service/service_index/likes.md)  |
 | [消息-新增关注列表](https://github.com/submato/xhscrawl/blob/main/service/service_index/connections.md)  |
+| [未读通知数](https://github.com/submato/xhscrawl/blob/main/service/service_index/unread.md)  |
 | 如果没有你需要的接口,联系作者有偿定制开发              |
 
 
