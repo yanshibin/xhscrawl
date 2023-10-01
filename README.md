@@ -31,7 +31,7 @@
 | v01.08 | 2023.09.29 | - 增加[消息-赞和收藏](https://github.com/submato/xhscrawl/blob/main/service/service_index/likes.md) |
 | v01.09 | 2023.09.29 | - 增加[新增关注列表](https://github.com/submato/xhscrawl/blob/main/service/service_index/connections.md) |
 | v01.10 | 2023.09.29 | - 增加[未读通知数](https://github.com/submato/xhscrawl/blob/main/service/service_index/unread.md) |
-| vxx.xx | 0000-00-00 | 如果没有你需要的接口,联系作者有偿定制开发                 |
+| vxx.xx | 0000-00-00 | 如果没有你需要的接口,联系作者有偿定制开发 QQ：1162466610(回复很快的,但禁止白嫖！！！)                |
 
 ## how to run demo
 - python环境
@@ -44,25 +44,17 @@
 ## 逆向xs效果
 ![image](https://github.com/wang-zhiyang/xhscrawl/assets/55040284/45c9d9cb-4017-4c47-81a5-2e896ca65ed7)
 
-## 提供xs逆向api
-作者提供在线逆向api，按次收费。
-
 ## 作者联系方式 && 寻求帮助
-QQ ：1162466610 (回复很快的哦， 禁止白嫖！！！)
-  1. 联系作者，1v1有偿提供帮助：QQ ：1162466610 (回复很快的哦， 禁止白嫖！！！)
+QQ ：1162466610 (回复很快，但禁止白嫖！！！)
+  1. 联系作者，1v1有偿提供帮助：QQ ：1162466610 (回复很快，但禁止白嫖！！！)
   2. 作者提供逆向单个api的源码，代码以最简单朴素的方式编写，每一个参数都有说明，保证能够跑起来
   3. 如果没有你需要的接口,联系作者有偿定制开发
 
 
-## 付费后你将获得
-  - 源文件(包含3个文件，v01.00重构后，不依赖本项目):授人以渔，之后想怎么用就怎么用。
-    - js文件：js逆向文件，提供xs逆向。
-    - py文件：主运行文件，以易懂为主要目标进行编写，就像demo一样一看就懂。
-    - md文件：how to run的保姆教程，包括如何获取cookie、笔记id是什么等
-  - 添加作者微信，加入讨论群
-  - 近乎完美的售后
+## 提供xs逆向api
+作者提供在线逆向api，按次收费。
 
-## 提供的源码
+## 提供逆向单个api的源码服务
 
 | 名称    | 
 | ------------------------------------ |
@@ -81,7 +73,17 @@ QQ ：1162466610 (回复很快的哦， 禁止白嫖！！！)
 | [消息-赞和收藏](https://github.com/submato/xhscrawl/blob/main/service/service_index/likes.md)  |
 | [消息-新增关注列表](https://github.com/submato/xhscrawl/blob/main/service/service_index/connections.md)  |
 | [未读通知数](https://github.com/submato/xhscrawl/blob/main/service/service_index/unread.md)  |
-| 如果没有你需要的接口,联系作者有偿定制开发              |
+| 如果没有你需要的接口,联系作者有偿定制开发 QQ：1162466610              |
+
+
+
+## 付费后你将获得
+  - 源文件(包含3个文件，v01.00重构后，不依赖本项目):授人以渔，之后想怎么用就怎么用。
+    - js文件：js逆向文件，提供xs逆向。
+    - py文件：主运行文件，以易懂为主要目标进行编写，就像demo一样一看就懂。
+    - md文件：how to run的保姆教程，包括如何获取cookie、笔记id是什么等
+  - 添加作者微信，加入讨论群
+  - 近乎完美的售后
 
 
 
