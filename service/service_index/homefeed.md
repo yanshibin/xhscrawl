@@ -42,12 +42,7 @@
                 "track_id":"2c8cqkeoi7jq1i4426vod",
                 "ignore":false,
                 "id":"64f89145000000001d01549a"
-            },
-            Object{...},
-            Object{...},
-            Object{...},
-            Object{...},
-            Object{...},
+            }
         ]
     }
 }

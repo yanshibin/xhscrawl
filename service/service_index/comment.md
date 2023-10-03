@@ -8,12 +8,11 @@
 - 目前支持数字、英文评论，还不支持中文，v00.04后支持
 - 不支持at其他用户，v00.04后支持
 
-## idea
-我对这个service的一些实用idea，欢迎补充
-- 给自己引流：如果你是一个卖鞋子的商家，可以在鞋相关笔记下评论以获取关注
-- 
 ## 运行结果示例
-![image](https://github.com/wang-zhiyang/xhscrawl/assets/55040284/de8790f7-b335-4d1d-941e-cf68a3898000)
+```json
+ {code: 0, msg: "Success", success: true}
+```
+
 
 ## how to run
 代码以最简单朴素的方式编写，只需以下步骤
