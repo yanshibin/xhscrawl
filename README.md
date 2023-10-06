@@ -31,7 +31,7 @@
 | v01.08 | 2023.09.29 | - 增加[消息-赞和收藏](https://github.com/submato/xhscrawl/blob/main/service/service_index/likes.md) |
 | v01.09 | 2023.09.29 | - 增加[新增关注列表](https://github.com/submato/xhscrawl/blob/main/service/service_index/connections.md) |
 | v01.10 | 2023.09.29 | - 增加[未读通知数](https://github.com/submato/xhscrawl/blob/main/service/service_index/unread.md) |
-| vxx.xx | 0000-00-00 | 若没有你需要的接口,联系作者有偿开发，[提需前必看](https://github.com/wang-zhiyang/xhscrawl/blob/main/service/service_index/feature_notice.md) QQ：1162466610(回复很快的,但禁止白嫖！！！)                |
+| vxx.xx | 0000-00-00 | 若没有你需要的接口,联系作者有偿开发，提需前必看!!:[提需前必看](https://github.com/wang-zhiyang/xhscrawl/blob/main/service/service_index/feature_notice.md) <br>QQ：1162466610(回复很快的,但禁止白嫖！！！)                |
 
 ## how to run demo
 - python环境
@@ -80,7 +80,7 @@ QQ ：1162466610 (回复很快，但禁止白嫖！！！)
 | [消息-赞和收藏](https://github.com/submato/xhscrawl/blob/main/service/service_index/likes.md)  |
 | [消息-新增关注列表](https://github.com/submato/xhscrawl/blob/main/service/service_index/connections.md)  |
 | [未读通知数](https://github.com/submato/xhscrawl/blob/main/service/service_index/unread.md)  |
-| 若没有你需要的接口,联系作者有偿开发，[提需前必看](https://github.com/wang-zhiyang/xhscrawl/blob/main/service/service_index/feature_notice.md) QQ：1162466610(回复很快的,但禁止白嫖！！！)                |
+| 若没有你需要的接口,联系作者有偿开发，提需前必看!!:[提需前必看](https://github.com/wang-zhiyang/xhscrawl/blob/main/service/service_index/feature_notice.md) <br>QQ：1162466610(回复很快的,但禁止白嫖！！！)                |
 
 
 
