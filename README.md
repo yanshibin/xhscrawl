@@ -31,7 +31,7 @@
 | v01.08 | 2023.09.29 | - 增加[消息-赞和收藏](https://github.com/submato/xhscrawl/blob/main/service/service_index/likes.md) |
 | v01.09 | 2023.09.29 | - 增加[新增关注列表](https://github.com/submato/xhscrawl/blob/main/service/service_index/connections.md) |
 | v01.10 | 2023.09.29 | - 增加[未读通知数](https://github.com/submato/xhscrawl/blob/main/service/service_index/unread.md) |
-| vxx.xx | 0000-00-00 | 如果没有你需要的接口,联系作者有偿定制开发 QQ：1162466610(回复很快的,但禁止白嫖！！！)                |
+| vxx.xx | 0000-00-00 | 若没有你需要的接口,联系作者有偿开发，[提需前必看](https://github.com/wang-zhiyang/xhscrawl/blob/main/service/service_index/feature_notice.md) QQ：1162466610(回复很快的,但禁止白嫖！！！)                |
 
 ## how to run demo
 - python环境
@@ -44,7 +44,13 @@
 ## 逆向xs效果
 ![image](https://github.com/wang-zhiyang/xhscrawl/assets/55040284/45c9d9cb-4017-4c47-81a5-2e896ca65ed7)
 
+## 常见Q&A
+
+常见Q&A：[常见Q&A](https://github.com/wang-zhiyang/xhscrawl/blob/main/service/service_index/feature_notice.md) 
+
 ## 作者联系方式 && 寻求帮助
+常见Q&A：[常见Q&A](https://github.com/wang-zhiyang/xhscrawl/blob/main/service/service_index/feature_notice.md) 
+
 QQ ：1162466610 (回复很快，但禁止白嫖！！！)
   1. 联系作者，1v1有偿提供帮助：QQ ：1162466610 (回复很快，但禁止白嫖！！！)
   2. 作者提供逆向单个api的源码，代码以最简单朴素的方式编写，每一个参数都有说明，保证能够跑起来
@@ -74,7 +80,8 @@ QQ ：1162466610 (回复很快，但禁止白嫖！！！)
 | [消息-赞和收藏](https://github.com/submato/xhscrawl/blob/main/service/service_index/likes.md)  |
 | [消息-新增关注列表](https://github.com/submato/xhscrawl/blob/main/service/service_index/connections.md)  |
 | [未读通知数](https://github.com/submato/xhscrawl/blob/main/service/service_index/unread.md)  |
-| 如果没有你需要的接口,联系作者有偿定制开发 QQ：1162466610              |
+| 若没有你需要的接口,联系作者有偿开发，[提需前必看](https://github.com/wang-zhiyang/xhscrawl/blob/main/service/service_index/feature_notice.md) QQ：1162466610(回复很快的,但禁止白嫖！！！)                |
+
 
 
 
