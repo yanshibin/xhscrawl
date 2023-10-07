@@ -13,7 +13,6 @@
 - [Star History](https://github.com/submato/xhscrawl#star-history)
 - [请作者喝咖啡吧](https://github.com/submato/xhscrawl#%E8%AF%B7%E4%BD%9C%E8%80%85%E5%96%9D%E5%92%96%E5%95%A1%E5%90%A7)
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 ![Static Badge](https://img.shields.io/badge/author-submato-gree)
 ![Static Badge](https://img.shields.io/badge/GitHub-blue?logo=GitHub&labelColor=black)
@@ -22,10 +21,7 @@
 ![Static Badge](https://img.shields.io/badge/java-1.8-blue?logo=java&labelColor=black)
 
 
-
-
 ## 简介
-
 
 小红书的api都有加密，主要就是x-s。本项目是用python逆向小红书x-s，小红书会定期更新加密的js，本项目会持续更新，欢迎star。
 
@@ -82,11 +78,7 @@
 联系作者前请务必查阅本文档，能回答你90%的问题，节省自己、作者的宝贵时间
 常见Q&A：[常见Q&A](https://github.com/wang-zhiyang/xhscrawl/blob/main/service/service_index/feature_notice.md) 
 
-
 QQ ：1162466610 (回复很快，但禁止白嫖！！！)
-  1. 联系作者，1v1有偿提供帮助：QQ ：1162466610 (回复很快，但禁止白嫖！！！)
-  2. 作者提供逆向单个api的源码，代码以最简单朴素的方式编写，每一个参数都有说明，保证能够跑起来
-  3. 如果没有你需要的接口,联系作者有偿定制开发
 
 ## 作者提供的服务
 
@@ -108,8 +100,9 @@ QQ ：1162466610 (回复很快，但禁止白嫖！！！)
 作者提供在线逆向api，按次收费。目前正在稳定性测试中，目前还不开放。
 
 ### 提供逆向单个api的源码服务
+作者提供逆向单个api的源码，代码以最简单朴素的方式编写，每一个参数都有说明，保证能够跑起来
 
-可以点击链接，里面有价格。返回数据示例等等
+点击链接查看价格、返回数据等等详情
 
 | 名称    | 
 | ------------------------------------ |
