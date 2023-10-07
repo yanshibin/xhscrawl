@@ -14,7 +14,13 @@
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
+![Static Badge](https://img.shields.io/badge/author-submato-green)
+![Static Badge](https://img.shields.io/badge/author-submato-blue)
+![Static Badge](https://img.shields.io/badge/author-hello-blue?link=https%3A%2F%2Fgithub.com%2Fsubmato%2Fxhscrawl%23changelog)
+
 ## 简介
+
+
 小红书的api都有加密，主要就是x-s。本项目是用python逆向小红书x-s，小红书会定期更新加密的js，本项目会持续更新，欢迎star。
 
 ## 性能
