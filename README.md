@@ -5,11 +5,11 @@
 - [how to run demo](https://github.com/submato/xhscrawl#how-to-run-demo)
 - [逆向xs效果](https://github.com/submato/xhscrawl#%E9%80%86%E5%90%91xs%E6%95%88%E6%9E%9C)
 - [常见Q&A](https://github.com/submato/xhscrawl#%E5%B8%B8%E8%A7%81qa)
-- [作者联系方式 && 寻求帮助](https://github.com/submato/xhscrawl#%E4%BD%9C%E8%80%85%E8%81%94%E7%B3%BB%E6%96%B9%E5%BC%8F--%E5%AF%BB%E6%B1%82%E5%B8%AE%E5%8A%A9)
 - [作者提供的服务：](https://github.com/submato/xhscrawl#%E4%BD%9C%E8%80%85%E6%8F%90%E4%BE%9B%E7%9A%84%E6%9C%8D%E5%8A%A1)
     - [创建小红书账号指南](https://github.com/submato/xhscrawl#%E5%88%9B%E5%BB%BA%E5%B0%8F%E7%BA%A2%E4%B9%A6%E8%B4%A6%E5%8F%B7%E6%8C%87%E5%8D%97)
     - [提供xs逆向在线api服务](https://github.com/submato/xhscrawl#%E6%8F%90%E4%BE%9Bxs%E9%80%86%E5%90%91api)
     - [提供逆向单个api的源码服务](https://github.com/submato/xhscrawl#%E6%8F%90%E4%BE%9B%E9%80%86%E5%90%91%E5%8D%95%E4%B8%AAapi%E7%9A%84%E6%BA%90%E7%A0%81%E6%9C%8D%E5%8A%A1)
+- [作者联系方式 && 寻求帮助](https://github.com/submato/xhscrawl#%E4%BD%9C%E8%80%85%E8%81%94%E7%B3%BB%E6%96%B9%E5%BC%8F--%E5%AF%BB%E6%B1%82%E5%B8%AE%E5%8A%A9)
 - [Star History](https://github.com/submato/xhscrawl#star-history)
 - [请作者喝咖啡吧](https://github.com/submato/xhscrawl#%E8%AF%B7%E4%BD%9C%E8%80%85%E5%96%9D%E5%92%96%E5%95%A1%E5%90%A7)
 
@@ -74,12 +74,6 @@
 
 常见Q&A：[常见Q&A](https://github.com/wang-zhiyang/xhscrawl/blob/main/service/service_index/feature_notice.md) 
 
-## 作者联系方式 && 寻求帮助
-联系作者前请务必查阅本文档，能回答你90%的问题，节省自己、作者的宝贵时间
-常见Q&A：[常见Q&A](https://github.com/wang-zhiyang/xhscrawl/blob/main/service/service_index/feature_notice.md) 
-
-QQ ：1162466610 (回复很快，但禁止白嫖！！！)
-
 ## 作者提供的服务
 
 ### 创建小红书账号指南
@@ -130,6 +124,12 @@ QQ ：1162466610 (回复很快，但禁止白嫖！！！)
     - md文件：how to run的保姆教程，包括如何获取cookie、笔记id是什么等
   - 添加作者微信，加入讨论群
   - 近乎完美的售后
+
+## 作者联系方式 && 寻求帮助
+联系作者前请务必查阅本文档，能回答你90%的问题，节省自己、作者的宝贵时间
+常见Q&A：[常见Q&A](https://github.com/wang-zhiyang/xhscrawl/blob/main/service/service_index/feature_notice.md) 
+
+QQ ：1162466610 (回复很快，但禁止白嫖！！！)
 
 
 ## Star History
