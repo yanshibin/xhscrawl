@@ -46,9 +46,12 @@
 
 ## 常见Q&A
 
+联系作者前请务必查阅本文档，能回答你90%的问题，节省自己、作者的宝贵时间
+
 常见Q&A：[常见Q&A](https://github.com/wang-zhiyang/xhscrawl/blob/main/service/service_index/feature_notice.md) 
 
 ## 作者联系方式 && 寻求帮助
+联系作者前请务必查阅本文档，能回答你90%的问题，节省自己、作者的宝贵时间
 常见Q&A：[常见Q&A](https://github.com/wang-zhiyang/xhscrawl/blob/main/service/service_index/feature_notice.md) 
 
 QQ ：1162466610 (回复很快，但禁止白嫖！！！)
