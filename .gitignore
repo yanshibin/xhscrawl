@@ -17,6 +17,7 @@ service/mentions/
 service/likes/
 service/connections/
 service/unread/
+service/account_manual/
 
 
 !service/*.md
