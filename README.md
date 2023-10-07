@@ -6,7 +6,6 @@
 - [逆向xs效果](https://github.com/submato/xhscrawl#%E9%80%86%E5%90%91xs%E6%95%88%E6%9E%9C)
 - [常见Q&A](https://github.com/submato/xhscrawl#%E5%B8%B8%E8%A7%81qa)
 - [作者提供的服务：](https://github.com/submato/xhscrawl#%E4%BD%9C%E8%80%85%E6%8F%90%E4%BE%9B%E7%9A%84%E6%9C%8D%E5%8A%A1)
-    - [创建小红书账号指南](https://github.com/submato/xhscrawl#%E5%88%9B%E5%BB%BA%E5%B0%8F%E7%BA%A2%E4%B9%A6%E8%B4%A6%E5%8F%B7%E6%8C%87%E5%8D%97)
     - [提供xs逆向在线api服务](https://github.com/submato/xhscrawl#%E6%8F%90%E4%BE%9Bxs%E9%80%86%E5%90%91api)
     - [提供逆向单个api的源码服务](https://github.com/submato/xhscrawl#%E6%8F%90%E4%BE%9B%E9%80%86%E5%90%91%E5%8D%95%E4%B8%AAapi%E7%9A%84%E6%BA%90%E7%A0%81%E6%9C%8D%E5%8A%A1)
 - [作者联系方式 && 寻求帮助](https://github.com/submato/xhscrawl#%E4%BD%9C%E8%80%85%E8%81%94%E7%B3%BB%E6%96%B9%E5%BC%8F--%E5%AF%BB%E6%B1%82%E5%B8%AE%E5%8A%A9)
@@ -75,19 +74,6 @@
 常见Q&A：[常见Q&A](https://github.com/wang-zhiyang/xhscrawl/blob/main/service/service_index/feature_notice.md) 
 
 ## 作者提供的服务
-
-### 创建小红书账号指南
-
-> 实践中发现不少用户需要多个账号，但是苦于没有这么多手机号，同时需求量也不够大，专门贩卖账号的灰产不搭理。
-
-<br/>
-
-作者一向提倡授人以渔，**本手册意在为这一部分用户提供一个自己获取小红书账号的方法。** 以及怎么样获取到手机号，怎么注册小红书账号，怎么隔离小红书app防止正常使用的app被封设备号、怎么解封被封的手机号，怎么解封被封的设备号。
-
-<br/>
-
-详见：[创建小红书账号指南](https://github.com/wang-zhiyang/xhscrawl/blob/main/service/service_index/account_manual.md)   
-<br/>
 
 ### 提供xs逆向api
 
