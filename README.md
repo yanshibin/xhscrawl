@@ -6,8 +6,10 @@
 - [逆向xs效果](https://github.com/submato/xhscrawl#%E9%80%86%E5%90%91xs%E6%95%88%E6%9E%9C)
 - [常见Q&A](https://github.com/submato/xhscrawl#%E5%B8%B8%E8%A7%81qa)
 - [作者联系方式 && 寻求帮助](https://github.com/submato/xhscrawl#%E4%BD%9C%E8%80%85%E8%81%94%E7%B3%BB%E6%96%B9%E5%BC%8F--%E5%AF%BB%E6%B1%82%E5%B8%AE%E5%8A%A9)
-- [服务一：提供xs逆向api](https://github.com/submato/xhscrawl#%E6%9C%8D%E5%8A%A1%E4%B8%80%E6%8F%90%E4%BE%9Bxs%E9%80%86%E5%90%91api)
-- [服务二：提供逆向单个api的源码服务](https://github.com/submato/xhscrawl#%E6%9C%8D%E5%8A%A1%E4%BA%8C%E6%8F%90%E4%BE%9B%E9%80%86%E5%90%91%E5%8D%95%E4%B8%AAapi%E7%9A%84%E6%BA%90%E7%A0%81%E6%9C%8D%E5%8A%A1)
+- [作者提供的服务：](https://github.com/submato/xhscrawl#%E6%9C%8D%E5%8A%A1%E4%B8%80%E6%8F%90%E4%BE%9Bxs%E9%80%86%E5%90%91api)
+    - [服务一：创建小红书账号指南](https://github.com/submato/xhscrawl#%E6%9C%8D%E5%8A%A1%E4%B8%80%E6%8F%90%E4%BE%9Bxs%E9%80%86%E5%90%91api)
+    - [服务二：提供xs逆向在线api服务](https://github.com/submato/xhscrawl#%E6%9C%8D%E5%8A%A1%E4%B8%80%E6%8F%90%E4%BE%9Bxs%E9%80%86%E5%90%91api)
+    - [服务三：提供逆向单个api的源码服务](https://github.com/submato/xhscrawl#%E6%9C%8D%E5%8A%A1%E4%BA%8C%E6%8F%90%E4%BE%9B%E9%80%86%E5%90%91%E5%8D%95%E4%B8%AAapi%E7%9A%84%E6%BA%90%E7%A0%81%E6%9C%8D%E5%8A%A1)
 - [付费后你将获得](https://github.com/submato/xhscrawl#%E4%BB%98%E8%B4%B9%E5%90%8E%E4%BD%A0%E5%B0%86%E8%8E%B7%E5%BE%97)
 - [Star History](https://github.com/submato/xhscrawl#star-history)
 - [请作者喝咖啡吧](https://github.com/submato/xhscrawl#%E8%AF%B7%E4%BD%9C%E8%80%85%E5%96%9D%E5%92%96%E5%95%A1%E5%90%A7)
@@ -86,14 +88,26 @@ QQ ：1162466610 (回复很快，但禁止白嫖！！！)
   2. 作者提供逆向单个api的源码，代码以最简单朴素的方式编写，每一个参数都有说明，保证能够跑起来
   3. 如果没有你需要的接口,联系作者有偿定制开发
 
+## 作者提供的服务
 
-## 服务一：提供xs逆向api
+### 服务一：创建小红书账号指南
+
+
+> 实践中发现不少用户需要多个账号，但是苦于没有这么多手机号，同时需求量也不够大，专门贩卖账号的灰产不搭理。
+
+本手册意在为这一部分用户提供一个自己获取小红书账号的方法。
+
+怎么样获取到手机号，怎么注册小红书账号，怎么隔离小红书app防止正常使用的app被封设备号、怎么解封被封的手机号，怎么解封被封的设备号。
+详见：[创建小红书账号指南](https://github.com/wang-zhiyang/xhscrawl/blob/main/service/service_index/account_manaul.md)   
+
+### 服务二：提供xs逆向api
 
 作者提供在线逆向api，按次收费。目前正在稳定性测试中，目前还不开放。
 
-## 服务二：提供逆向单个api的源码服务
+### 服务三：提供逆向单个api的源码服务
 
 可以点击链接，里面有价格。返回数据示例等等
+
 | 名称    | 
 | ------------------------------------ |
 |[发送评论](https://github.com/wang-zhiyang/xhscrawl/blob/main/service/service_index/comment.md)                   |
@@ -113,17 +127,13 @@ QQ ：1162466610 (回复很快，但禁止白嫖！！！)
 | [未读通知数](https://github.com/submato/xhscrawl/blob/main/service/service_index/unread.md)  |
 | 若没有你需要的接口,联系作者有偿开发，提需前必看!!:[提需前必看](https://github.com/wang-zhiyang/xhscrawl/blob/main/service/service_index/feature_notice.md) <br>QQ：1162466610(回复很快的,但禁止白嫖！！！)                |
 
-
-
-
-## 付费后你将获得
+**付费后你将获得**
   - 源文件(包含3个文件，v01.00重构后，不依赖本项目):授人以渔，之后想怎么用就怎么用。
     - js文件：js逆向文件，提供xs逆向。
     - py文件：主运行文件，以易懂为主要目标进行编写，就像demo一样一看就懂。
     - md文件：how to run的保姆教程，包括如何获取cookie、笔记id是什么等
   - 添加作者微信，加入讨论群
   - 近乎完美的售后
-
 
 
 ## Star History
