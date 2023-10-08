@@ -44,7 +44,7 @@
 | v00.06 | 2023.09.02 | - 增加[获取笔记评论](https://github.com/submato/xhscrawl/blob/main/service/service_index/get_comment.md)                   |
 | v00.07 | 2023.09.14 | - 增加[收藏笔记](https://github.com/submato/xhscrawl/blob/main/service/service_index/collect_note.md) 、[给笔记点赞](https://github.com/submato/xhscrawl/blob/main/service/service_index/like_note.md)            |
 | v01.00 | 2023.09.14 | - 代码重构、模块化、解耦  |
-| v01.01 | 2023.09.18 | - 增加[获取用户笔记](https://github.com/submato/xhscrawl/blob/main/service/service_index/user_notes.md) |
+| v01.01 | 2023.09.18 | - 增加[获取用户所有笔记](https://github.com/submato/xhscrawl/blob/main/service/service_index/user_notes.md) |
 | v01.02 | 2023.09.18 | - 增加[获取用户信息](https://github.com/submato/xhscrawl/blob/main/service/service_index/user_info.md) |
 | v01.03 | 2023.09.23 | - 增加[获取关键词搜索推荐信息](https://github.com/submato/xhscrawl/blob/main/service/service_index/search_keyword_recommend.md)  |
 | v01.04 | 2023.09.24 | - 增加[homefeed首页推荐](https://github.com/submato/xhscrawl/blob/main/service/service_index/homefeed.md) |
@@ -92,7 +92,7 @@
 | [获取笔记评论](https://github.com/submato/xhscrawl/blob/main/service/service_index/get_comment.md)                  |
 | [收藏笔记](https://github.com/submato/xhscrawl/blob/main/service/service_index/collect_note.md)                |
 | [给笔记点赞](https://github.com/submato/xhscrawl/blob/main/service/service_index/like_note.md)  
-| [获取用户笔记](https://github.com/submato/xhscrawl/blob/main/service/service_index/user_notes.md)  |
+| [获取用户所有笔记](https://github.com/submato/xhscrawl/blob/main/service/service_index/user_notes.md)  |
 | [获取用户详情](https://github.com/submato/xhscrawl/blob/main/service/service_index/user_info.md)  |
 | [获取关键词搜索推荐信息](https://github.com/submato/xhscrawl/blob/main/service/service_index/search_keyword_recommend.md)  |
 | [homefeed首页推荐](https://github.com/submato/xhscrawl/blob/main/service/service_index/homefeed.md)  |
