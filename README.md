@@ -7,6 +7,7 @@
 - [常见Q&A](https://github.com/submato/xhscrawl#%E5%B8%B8%E8%A7%81qa)
 - [作者提供的服务：](https://github.com/submato/xhscrawl#%E4%BD%9C%E8%80%85%E6%8F%90%E4%BE%9B%E7%9A%84%E6%9C%8D%E5%8A%A1)
     - [提供xs逆向在线api服务](https://github.com/submato/xhscrawl#%E6%8F%90%E4%BE%9Bxs%E9%80%86%E5%90%91api)
+    - [提供小红书、b站推广服务]()
     - [提供逆向单个api的源码服务](https://github.com/submato/xhscrawl#%E6%8F%90%E4%BE%9B%E9%80%86%E5%90%91%E5%8D%95%E4%B8%AAapi%E7%9A%84%E6%BA%90%E7%A0%81%E6%9C%8D%E5%8A%A1)
 - [作者联系方式 && 寻求帮助](https://github.com/submato/xhscrawl#%E4%BD%9C%E8%80%85%E8%81%94%E7%B3%BB%E6%96%B9%E5%BC%8F--%E5%AF%BB%E6%B1%82%E5%B8%AE%E5%8A%A9)
 - [Star History](https://github.com/submato/xhscrawl#star-history)
@@ -78,6 +79,9 @@
 ### 提供xs逆向api
 
 作者提供在线逆向api，按次收费。目前正在稳定性测试中，目前还不开放。
+
+## 提供小红书、b站推广服务
+后续会贴价格表，有需要联系作者
 
 ### 提供逆向单个api的源码服务
 作者提供逆向单个api的源码，代码以最简单朴素的方式编写，每一个参数都有说明，保证能够跑起来
