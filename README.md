@@ -10,7 +10,7 @@
     - [提供小红书、b站推广服务](https://github.com/submato/xhscrawl#%E6%8F%90%E4%BE%9B%E5%B0%8F%E7%BA%A2%E4%B9%A6b%E7%AB%99%E6%8E%A8%E5%B9%BF%E6%9C%8D%E5%8A%A1)
     - [提供逆向单个api的源码服务](https://github.com/submato/xhscrawl#%E6%8F%90%E4%BE%9B%E9%80%86%E5%90%91%E5%8D%95%E4%B8%AAapi%E7%9A%84%E6%BA%90%E7%A0%81%E6%9C%8D%E5%8A%A1)
     - [创建小红书账号指南](https://github.com/submato/xhscrawl#%E5%88%9B%E5%BB%BA%E5%B0%8F%E7%BA%A2%E4%B9%A6%E8%B4%A6%E5%8F%B7%E6%8C%87%E5%8D%97)
-- [作者联系方式 && 寻求帮助](https://github.com/submato/xhscrawl#%E4%BD%9C%E8%80%85%E8%81%94%E7%B3%BB%E6%96%B9%E5%BC%8F--%E5%AF%BB%E6%B1%82%E5%B8%AE%E5%8A%A9)
+- [作者联系方式 || 寻求帮助 || 合作](https://github.com/submato/xhscrawl#%E4%BD%9C%E8%80%85%E8%81%94%E7%B3%BB%E6%96%B9%E5%BC%8F--%E5%AF%BB%E6%B1%82%E5%B8%AE%E5%8A%A9)
 - [Star History](https://github.com/submato/xhscrawl#star-history)
 - [请作者喝咖啡吧](https://github.com/submato/xhscrawl#%E8%AF%B7%E4%BD%9C%E8%80%85%E5%96%9D%E5%92%96%E5%95%A1%E5%90%A7)
 
@@ -126,7 +126,7 @@
   - 添加作者微信，加入讨论群
   - 近乎完美的售后
 
-## 作者联系方式 && 寻求帮助
+## 作者联系方式 || 寻求帮助 || 合作
 联系作者前请务必查阅本文档，能回答你90%的问题，节省自己、作者的宝贵时间
 常见Q&A：[常见Q&A](https://github.com/wang-zhiyang/xhscrawl/blob/main/service/service_index/feature_notice.md) 
 
