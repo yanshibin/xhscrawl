@@ -99,7 +99,7 @@
 本指南意在为这一部分用户提供一个自己获取小红书(其他平台也通用)账号的方法。
 
 怎么样获取到手机号，怎么注册小红书账号，怎么隔离小红书app防止正常使用的app被封设备号、怎么解封被封的手机号，怎么解封被封的设备号。
-详见：[创建小红书账号指南](https://github.com/wang-zhiyang/xhscrawl/blob/main/service/service_index/account_manaul.md)   
+详见：[创建小红书账号指南](https://github.com/submato/xhscrawl/blob/main/service/service_index/account_manual.md)   
 
 
 ### 提供逆向单个api的源码服务
