@@ -61,6 +61,7 @@
 | v01.10 | 2023.09.29 | - 增加[未读通知数](https://github.com/submato/xhscrawl/blob/main/service/service_index/unread.md) |
 | v01.11 | 2023.10.08 | - 增加[创建小红书账号指南](https://github.com/submato/xhscrawl/blob/main/service/service_index/account_manual.md) |
 | v01.12 | 2023.10.10 | - 增加[小红书、b站推广服务](https://github.com/submato/xhscrawl#%E6%8F%90%E4%BE%9B%E5%B0%8F%E7%BA%A2%E4%B9%A6b%E7%AB%99%E6%8E%A8%E5%B9%BF%E6%9C%8D%E5%8A%A1) |
+| v01.13 | 2023.10.18 | - 增加app数据服务 |
 | vxx.xx | 0000-00-00 | 若没有你需要的接口,联系作者有偿开发，提需前必看!!:[提需前必看](https://github.com/wang-zhiyang/xhscrawl/blob/main/service/service_index/feature_notice.md) <br>QQ：1162466610(回复很快的,但禁止白嫖！！！)                |
 
 ## how to run demo
