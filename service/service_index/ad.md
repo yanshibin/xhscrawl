@@ -23,6 +23,8 @@
 
 ## 示范
 
+---
+
 **普通版标题**： [跳转链接]([GitHub - submato/xhscrawl: 小红书，小红书逆向，小红书 x-s逆向，小红书爬虫，小红书账号、推广](https://github.com/submato/xhscrawl))
 
 ---
@@ -31,13 +33,16 @@
 
 > 25个字广告简介，我们的产品。。。。。。。
 
+
 ---
 
-**中级版标题示范10字**： [跳转链接]([GitHub - submato/xhscrawl: 小红书，小红书逆向，小红书 x-s逆向，小红书爬虫，小红书账号、推广](https://github.com/submato/xhscrawl))
+**高级版标题示范10字**： [跳转链接]([GitHub - submato/xhscrawl: 小红书，小红书逆向，小红书 x-s逆向，小红书爬虫，小红书账号、推广](https://github.com/submato/xhscrawl))
 
 > 50个字简介，可以疯狂介绍你的产品，图片可以放你们公司logo或使用页面等等
 
 ![](https://i.imgur.com/IBItATn.png)
+
+---
 
 ## 现存广告表
 
