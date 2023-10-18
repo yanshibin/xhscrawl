@@ -9,7 +9,7 @@
     - [提供app逆向成品数据](https://github.com/submato/xhscrawl#%E6%8F%90%E4%BE%9Bapp%E9%80%86%E5%90%91%E6%88%90%E5%93%81%E6%95%B0%E6%8D%AE)
     - [提供app逆向教学服务](https://github.com/submato/xhscrawl#%E6%8F%90%E4%BE%9Bapp%E9%80%86%E5%90%91%E6%95%99%E5%AD%A6%E6%9C%8D%E5%8A%A1)
     - [提供xs逆向在线api服务](https://github.com/submato/xhscrawl#%E6%8F%90%E4%BE%9Bxs%E9%80%86%E5%90%91api)
-    - [提供成品数据服务](https://github.com/submato/xhscrawl#%E6%88%90%E5%93%81%E6%95%B0%E6%8D%AE%E6%9C%8D%E5%8A%A1)
+    - [提供web成品数据](https://github.com/submato/xhscrawl#%E6%8F%90%E4%BE%9Bweb%E6%88%90%E5%93%81%E6%95%B0%E6%8D%AE)
     - [提供小红书、b站推广服务](https://github.com/submato/xhscrawl#%E6%8F%90%E4%BE%9B%E5%B0%8F%E7%BA%A2%E4%B9%A6b%E7%AB%99%E6%8E%A8%E5%B9%BF%E6%9C%8D%E5%8A%A1)
     - [提供逆向单个api的源码服务](https://github.com/submato/xhscrawl#%E6%8F%90%E4%BE%9B%E9%80%86%E5%90%91%E5%8D%95%E4%B8%AAapi%E7%9A%84%E6%BA%90%E7%A0%81%E6%9C%8D%E5%8A%A1)
     - [创建小红书账号指南](https://github.com/submato/xhscrawl#%E5%88%9B%E5%BB%BA%E5%B0%8F%E7%BA%A2%E4%B9%A6%E8%B4%A6%E5%8F%B7%E6%8C%87%E5%8D%97)
@@ -82,7 +82,7 @@
 
 ## 作者提供的服务
 
-### 提供app逆向成品数据
+### 1.提供app逆向成品数据
 
 提供app爬虫的成品数据
 - 交付方式：txt/excel/csv 都可
@@ -91,23 +91,23 @@
 Q：为什么不提供app逆向的源码
 A：app逆向需要手机/ipad进行辅助，操作成本高，如你对这个感兴趣也可以联系作者。
 
-### 提供app逆向教学服务
+### 2.提供app逆向教学服务
 教学形式：1v1/视频(待定)
 如有这方面需求请联系作者
 
-### 提供xs逆向api
+### 3.提供xs逆向api
 
 作者提供在线逆向api，按次收费。目前正在稳定性测试中，目前还不开放。
 
-### 提供web成品数据
+### 4.提供web成品数据
 如果你看不懂代码，或者是不想写之间的逻辑，作者提供此数据服务。帮你直接爬取到需要的数据。
 - 交付方式：txt/excel/csv 都可
 - 价格：根据难度 x元/千条
 
-### 提供小红书、b站推广服务
+### 5.提供小红书、b站推广服务
 有需要联系作者，获取价格表
 
-### 创建小红书账号指南
+### 6.创建小红书账号指南
 
 > 实践中发现不少用户需要多个账号，但是苦于没有这么多手机号，同时需求量也不够大，专门贩卖账号的灰产不搭理。
 
@@ -117,7 +117,7 @@ A：app逆向需要手机/ipad进行辅助，操作成本高，如你对这个�
 详见：[创建小红书账号指南](https://github.com/submato/xhscrawl/blob/main/service/service_index/account_manual.md)   
 
 
-### 提供逆向单个api的源码服务
+### 7.提供逆向单个api的源码服务
 作者提供逆向单个api的源码，代码以最简单朴素的方式编写，每一个参数都有说明，保证能够跑起来
 
 点击链接查看价格、返回数据等等详情
