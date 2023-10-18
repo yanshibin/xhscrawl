@@ -70,12 +70,6 @@
 
 ## 作者提供的服务
 
-### 0.仓库广告服务
-
-广告位招租，详情见：[广告位](https://github.com/submato/xhscrawl/blob/main/service/service_index/ad.md)  |
-
-
-
 ### 1.提供app逆向成品数据
 
 提供app爬虫的成品数据
@@ -83,6 +77,7 @@
 - 价格：根据难度 x元/千条
 
 Q：为什么不提供app逆向的源码
+
 A：app逆向需要手机/ipad进行辅助，操作成本高，如你对这个感兴趣也可以联系作者。
 
 ### 2.提供app逆向教学服务
@@ -145,8 +140,6 @@ A：app逆向需要手机/ipad进行辅助，操作成本高，如你对这个�
 
 ## 作者联系方式 || 寻求帮助 || 合作
 联系作者前请务必查阅本文档，能回答你90%的问题，节省自己、作者的宝贵时间
-常见Q&A：[常见Q&A](https://github.com/wang-zhiyang/xhscrawl/blob/main/service/service_index/feature_notice.md) 
-
 QQ ：1162466610 (回复很快，但禁止白嫖！！！)
 
 
