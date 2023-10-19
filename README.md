@@ -25,13 +25,13 @@
 ![Static Badge](https://img.shields.io/badge/java-1.8-blue?logo=java&labelColor=black)
 
 
-## 广告位
+## 感谢下列Sponsors对本仓库赞助
 
 ---
 
 
 
-广告位招租，详情见： [广告位](https://github.com/submato/xhscrawl/blob/main/service/service_index/ad.md)  |
+* 广告位招租，详情见： [广告位](https://github.com/submato/xhscrawl/blob/main/service/service_index/ad.md) *
 
 ---
 
