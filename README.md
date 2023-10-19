@@ -47,7 +47,7 @@
 
 ## changelog
 
-详见：[changelog](https://github.com/wang-zhiyang/xhscrawl/blob/main/changelog.md) 
+[changelog](https://github.com/wang-zhiyang/xhscrawl/blob/main/changelog.md) 
 
 
 ## how to run demo
@@ -61,9 +61,7 @@
 
 ## 常见Q&A
 
-联系作者前请务必查阅本文档，能回答你90%的问题，节省自己、作者的宝贵时间
-
-常见Q&A：[常见Q&A](https://github.com/wang-zhiyang/xhscrawl/blob/main/service/service_index/feature_notice.md) 
+联系作者前请务必查阅本文档，能回答你90%的问题，节省自己、作者的宝贵时间。[常见Q&A](https://github.com/wang-zhiyang/xhscrawl/blob/main/service/service_index/feature_notice.md) 
 
 ## 作者提供的服务
 
@@ -72,11 +70,6 @@
 提供app爬虫的成品数据
 - 交付方式：txt/excel/csv 都可
 - 价格：根据难度 x元/千条
-
-Q：为什么不提供app逆向的源码
-
-A：app逆向需要手机/ipad进行辅助，操作成本高。
-
 
 ### 4.提供web成品数据
 如果你看不懂代码，或者是不想写之间的逻辑，作者提供此数据服务。帮你直接爬取到需要的数据。
@@ -88,18 +81,12 @@ A：app逆向需要手机/ipad进行辅助，操作成本高。
 
 ### 6.创建小红书账号指南
 
-> 实践中发现不少用户需要多个账号，但是苦于没有这么多手机号，同时需求量也不够大，专门贩卖账号的灰产不搭理。
-
-本指南意在为这一部分用户提供一个自己获取小红书(其他平台也通用)账号的方法。
-
-怎么样获取到手机号，怎么注册小红书账号，怎么隔离小红书app防止正常使用的app被封设备号、怎么解封被封的手机号，怎么解封被封的设备号。
-详见：[创建小红书账号指南](https://github.com/submato/xhscrawl/blob/main/service/service_index/account_manual.md)   
+[创建小红书账号指南](https://github.com/submato/xhscrawl/blob/main/service/service_index/account_manual.md)   
 
 
 ### 7.提供逆向单个api的源码服务
 作者提供逆向单个api的源码，代码以最简单朴素的方式编写，每一个参数都有说明，保证能够跑起来
 
-点击链接查看价格、返回数据等等详情
 
 | 名称    | 
 | ------------------------------------ |
@@ -125,8 +112,6 @@ A：app逆向需要手机/ipad进行辅助，操作成本高。
     - js文件：js逆向文件，提供xs逆向。
     - py文件：主运行文件，以易懂为主要目标进行编写，就像demo一样一看就懂。
     - md文件：how to run的保姆教程，包括如何获取cookie、笔记id是什么等
-  - 添加作者微信，加入讨论群
-  - 近乎完美的售后
 
 ## 作者联系方式 || 寻求帮助 || 合作
 联系作者前请务必查阅本文档，能回答你90%的问题，节省自己、作者的宝贵时间
