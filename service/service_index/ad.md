@@ -11,6 +11,11 @@
   
 4. 本仓库star数量增加速度是非常快的，详见：[star-history](https://github.com/submato/xhscrawl#star-history)
 
+
+## 仓库曝光量等数据
+
+https://github.com/submato/xhscrawl/graphs/traffic
+
 ## 价格表
 
 |     | 普通版 | 中级版 | 高级版 | 说明  | 示范  |
