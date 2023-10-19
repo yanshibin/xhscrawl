@@ -68,7 +68,7 @@ star数量增长趋势
 
 双周访问量趋势图(更新时间：2023-10-19)
 
-<img width="974" alt="image" src="https://github.com/submato/xhscrawl/assets/55040284/a7f69d22-479e-4e64-82c6-f6761f3dafa8">
+<img width="945" alt="image" src="https://github.com/submato/xhscrawl/assets/55040284/89764092-9f37-4ada-931b-5624998497bc">
 
 双周克隆趋势图(更新时间：2023-10-19)
 
