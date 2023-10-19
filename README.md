@@ -61,23 +61,23 @@
 
 ## 常见Q&A
 
-联系作者前请务必查阅本文档，能回答你90%的问题，节省自己、作者的宝贵时间。[常见Q&A](https://github.com/wang-zhiyang/xhscrawl/blob/main/service/service_index/feature_notice.md) 
+[常见Q&A](https://github.com/wang-zhiyang/xhscrawl/blob/main/service/service_index/feature_notice.md) 
 
 ## 作者提供的服务
 
 ### 1.提供app逆向成品数据
 
 提供app爬虫的成品数据
-- 交付方式：txt/excel/csv 都可
+- 交付方式：txt、excel、csv等等格式中的一种
 - 价格：根据难度 x元/千条
 
 ### 4.提供web成品数据
 如果你看不懂代码，或者是不想写之间的逻辑，作者提供此数据服务。帮你直接爬取到需要的数据。
-- 交付方式：txt/excel/csv 都可
+- 交付方式：txt、excel、csv等等格式中的一种
 - 价格：根据难度 x元/千条
 
 ### 5.提供小红书、b站推广服务
-有需要联系作者，获取价格表
+请联系作者，获取价格表
 
 ### 6.创建小红书账号指南
 
@@ -105,7 +105,7 @@
 | [消息-赞和收藏](https://github.com/submato/xhscrawl/blob/main/service/service_index/likes.md)  |
 | [消息-新增关注列表](https://github.com/submato/xhscrawl/blob/main/service/service_index/connections.md)  |
 | [未读通知数](https://github.com/submato/xhscrawl/blob/main/service/service_index/unread.md)  |
-| 若没有你需要的接口,联系作者有偿开发，提需前必看!!:[提需前必看](https://github.com/wang-zhiyang/xhscrawl/blob/main/service/service_index/feature_notice.md) <br>QQ：1162466610(回复很快的,但禁止白嫖！！！)                |
+| 若没有你需要的接口,联系作者有偿开发，[提需前必看](https://github.com/wang-zhiyang/xhscrawl/blob/main/service/service_index/feature_notice.md) <br>QQ：1162466610(回复很快的,但禁止白嫖！！！)                |
 
 **付费后你将获得**
   - 源文件(包含3个文件，v01.00重构后，不依赖本项目):授人以渔，之后想怎么用就怎么用。
@@ -114,7 +114,9 @@
     - md文件：how to run的保姆教程，包括如何获取cookie、笔记id是什么等
     - 添加作者微信，加入讨论群
 ## 作者联系方式 || 寻求帮助 || 合作
-联系作者前请务必查阅本文档，能回答你90%的问题，节省自己、作者的宝贵时间
+联系作者前请务必查阅[常见Q&A](https://github.com/wang-zhiyang/xhscrawl/blob/main/service/service_index/feature_notice.md)
+。能回答你90%的问题，节省自己、作者的宝贵时间。
+
 QQ ：1162466610 (回复很快，但禁止白嫖！！！)
 
 
