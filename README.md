@@ -31,7 +31,7 @@
 
 
 
-*[成为赞助者，展示你公司信息在这](https://github.com/submato/xhscrawl/blob/main/service/service_index/ad.md)*
+*[成为赞助者，展示你的产品在这里](https://github.com/submato/xhscrawl/blob/main/service/service_index/ad.md)*
 
 ---
 
