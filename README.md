@@ -4,7 +4,6 @@
 - [性能](#%E6%80%A7%E8%83%BD)
 - [changelog](#changelog)
 - [how to run demo](#how-to-run-demo)
-- [逆向xs效果](#%E9%80%86%E5%90%91xs%E6%95%88%E6%9E%9C)
 - [常见Q&A](#%E5%B8%B8%E8%A7%81qa)
 - [作者提供的服务：](#%E4%BD%9C%E8%80%85%E6%8F%90%E4%BE%9B%E7%9A%84%E6%9C%8D%E5%8A%A1)
     - [提供app逆向成品数据](#1%E6%8F%90%E4%BE%9Bapp%E9%80%86%E5%90%91%E6%88%90%E5%93%81%E6%95%B0%E6%8D%AE)
