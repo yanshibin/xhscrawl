@@ -54,7 +54,7 @@
 
 ## changelog
 
-[changelog](https://github.com/wang-zhiyang/xhscrawl/blob/main/changelog.md) 
+[changelog](https://github.com/submato/xhscrawl/blob/main/changelog.md) 
 
 
 ## how to run demo
@@ -68,7 +68,7 @@
 
 ## 常见Q&A
 
-[常见Q&A](https://github.com/wang-zhiyang/xhscrawl/blob/main/service/service_index/feature_notice.md) 
+[常见Q&A](https://github.com/submato/xhscrawl/blob/main/service/service_index/feature_notice.md) 
 
 ## 作者提供的服务
 
@@ -96,8 +96,8 @@
 
 | 名称    | 
 | ------------------------------------ |
-|[发送评论](https://github.com/wang-zhiyang/xhscrawl/blob/main/service/service_index/comment.md)                   |
-| [获取笔记详情](https://github.com/wang-zhiyang/xhscrawl/blob/main/service/service_index/note_detail.md)    |
+|[发送评论](https://github.com/submato/xhscrawl/blob/main/service/service_index/comment.md)                   |
+| [获取笔记详情](https://github.com/submato/xhscrawl/blob/main/service/service_index/note_detail.md)    |
 | [笔记搜索](https://github.com/submato/xhscrawl/blob/main/service/service_index/search.md)                  |
 | [获取笔记评论](https://github.com/submato/xhscrawl/blob/main/service/service_index/get_comment.md)                  |
 | [收藏笔记](https://github.com/submato/xhscrawl/blob/main/service/service_index/collect_note.md)                |
@@ -111,7 +111,7 @@
 | [消息-赞和收藏](https://github.com/submato/xhscrawl/blob/main/service/service_index/likes.md)  |
 | [消息-新增关注列表](https://github.com/submato/xhscrawl/blob/main/service/service_index/connections.md)  |
 | [未读通知数](https://github.com/submato/xhscrawl/blob/main/service/service_index/unread.md)  |
-| 若没有你需要的接口,联系作者有偿开发，[提需前必看](https://github.com/wang-zhiyang/xhscrawl/blob/main/service/service_index/feature_notice.md) <br>QQ：1162466610(回复很快的,但禁止白嫖！！！)                |
+| 若没有你需要的接口,联系作者有偿开发，[提需前必看](https://github.com/submato/xhscrawl/blob/main/service/service_index/feature_notice.md) <br>QQ：1162466610(回复很快的,但禁止白嫖！！！)                |
 
 **付费后你将获得**
   - 源文件(包含3个文件，v01.00重构后，不依赖本项目):授人以渔，之后想怎么用就怎么用。
@@ -120,7 +120,7 @@
     - md文件：how to run的保姆教程，包括如何获取cookie、笔记id是什么等
     - 添加作者微信，加入讨论群
 ## 作者联系方式 || 寻求帮助 || 合作
-联系作者前请务必查阅[常见Q&A](https://github.com/wang-zhiyang/xhscrawl/blob/main/service/service_index/feature_notice.md)
+联系作者前请务必查阅[常见Q&A](https://github.com/submato/xhscrawl/blob/main/service/service_index/feature_notice.md)
 。能回答你90%的问题，节省自己、作者的宝贵时间。
 
 QQ ：1162466610 (回复很快，但禁止白嫖！！！)
