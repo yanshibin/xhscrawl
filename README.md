@@ -13,7 +13,6 @@
     - [创建小红书账号指南](#7%E6%8F%90%E4%BE%9B%E9%80%86%E5%90%91%E5%8D%95%E4%B8%AAapi%E7%9A%84%E6%BA%90%E7%A0%81%E6%9C%8D%E5%8A%A1)
 - [作者联系方式、寻求帮助、合作](#%E4%BD%9C%E8%80%85%E8%81%94%E7%B3%BB%E6%96%B9%E5%BC%8F--%E5%AF%BB%E6%B1%82%E5%B8%AE%E5%8A%A9--%E5%90%88%E4%BD%9C)
 - [Star History](#star-history)
-- [请作者喝咖啡吧](#%E8%AF%B7%E4%BD%9C%E8%80%85%E5%96%9D%E5%92%96%E5%95%A1%E5%90%A7)
 
 
 ![Static Badge](https://img.shields.io/badge/author-submato-gree)
